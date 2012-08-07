@@ -1,0 +1,80 @@
+sum is: /usr/bin/sum
+
+
+2012-02-15 07:11 Checksum for A3 for jemartti on gl10.student.cs  Page 1
+
+
+A3:
+total 720
+25483469 drwxrwx--- 8 jemartti cs488         4096 2012-02-15 07:11 ../
+13111713 drwxrwx--- 4 jemartti cs488         4096 2012-02-15 07:06 ./
+13111716 -rw-r-x--- 1 jemartti jemarttinen    582 2012-02-15 07:06 README*
+29162627 drwxrwx--- 2 jemartti cs488         4096 2012-02-15 07:06 data/
+13111714 drwxrwx--- 2 jemartti cs488         4096 2012-02-15 07:05 src/
+13111715 -rw-r----- 1 jemartti jemarttinen    530 2012-02-15 07:05 README~
+49449792 -rw-r--r-- 1 jemartti jemarttinen  65250 2012-02-15 07:03 screenshot01.png
+ 7632104 -rwxr-xr-x 1 jemartti jemarttinen 628361 2012-02-15 07:00 puppeteer*
+ 7632103 -rw-r----- 1 jemartti jemarttinen   7371 2012-02-15 06:57 puppet.lua
+
+A3/data:
+total 8
+13111713 drwxrwx--- 4 jemartti cs488 4096 2012-02-15 07:06 ../
+29162627 drwxrwx--- 2 jemartti cs488 4096 2012-02-15 07:06 ./
+
+A3/src:
+total 120
+13111713 drwxrwx--- 4 jemartti cs488        4096 2012-02-15 07:06 ../
+13111714 drwxrwx--- 2 jemartti cs488        4096 2012-02-15 07:05 ./
+ 6224160 -rw-r----- 1 jemartti jemarttinen  3349 2012-02-15 06:59 appwindow.cpp
+ 7632113 -rw-r----- 1 jemartti jemarttinen 13936 2012-02-15 06:58 viewer.cpp
+43731060 -rw-r----- 1 jemartti jemarttinen  3055 2012-02-15 06:58 viewer.hpp
+ 7632105 -rw-r----- 1 jemartti jemarttinen  4907 2012-02-15 06:00 scene.cpp
+ 7632107 -rw-r----- 1 jemartti jemarttinen  2500 2012-02-15 05:58 scene.hpp
+ 7632111 -rw-r----- 1 jemartti jemarttinen   168 2012-02-15 05:43 scene_lua.hpp
+ 7632109 -rw-r----- 1 jemartti jemarttinen 12009 2012-02-15 05:43 scene_lua.cpp
+ 7632099 -rw-r----- 1 jemartti jemarttinen   430 2012-02-15 05:41 primitive.cpp
+ 7632101 -rw-r----- 1 jemartti jemarttinen   302 2012-02-15 05:41 primitive.hpp
+ 7632097 -rw-r----- 1 jemartti jemarttinen   448 2012-02-15 05:40 material.hpp
+ 7632095 -rw-r----- 1 jemartti jemarttinen   670 2012-02-15 05:40 material.cpp
+ 6224165 -rw-r----- 1 jemartti jemarttinen   493 2012-02-15 05:40 main.cpp
+ 6224162 -rw-r----- 1 jemartti jemarttinen   626 2012-02-15 05:39 appwindow.hpp
+21772822 -rw-r----- 1 jemartti jemarttinen  1032 2012-02-13 16:49 a3mark.lua
+ 6224156 -rw-r----- 1 jemartti jemarttinen  3308 2012-01-31 20:26 algebra.cpp
+ 6224168 -rw-r----- 1 jemartti jemarttinen   703 2012-01-31 20:26 Makefile
+ 6224164 -rw-r----- 1 jemartti jemarttinen   170 2012-01-31 20:26 lua488.hpp
+ 6224155 -rw-r----- 1 jemartti jemarttinen  5680 2012-01-31 20:26 a3mark.png
+ 6224158 -rw-r----- 1 jemartti jemarttinen  9474 2012-01-31 20:26 algebra.hpp
+
+A3                                      
+A3/data                                 
+A3/puppeteer                            23710   614
+A3/puppet.lua                           03836     8
+A3/README                               06609     1
+A3/README~                              32213     1
+A3/screenshot01.png                     29140    64
+A3/src                                  
+A3/src/a3mark.lua                       25163     2
+A3/src/a3mark.png                       02377     6
+A3/src/algebra.cpp                      00294     4
+A3/src/algebra.hpp                      65153    10
+A3/src/appwindow.cpp                    47821     4
+A3/src/appwindow.hpp                    04717     1
+A3/src/lua488.hpp                       04702     1
+
+
+2012-02-15 07:11 Checksum for A3 for jemartti on gl10.student.cs  Page 2
+
+
+A3/src/main.cpp                         13924     1
+A3/src/Makefile                         15129     1
+A3/src/material.cpp                     01269     1
+A3/src/material.hpp                     24917     1
+A3/src/primitive.cpp                    39899     1
+A3/src/primitive.hpp                    23446     1
+A3/src/scene.cpp                        51256     5
+A3/src/scene.hpp                        35415     3
+A3/src/scene_lua.cpp                    06601    12
+A3/src/scene_lua.hpp                    61190     1
+A3/src/viewer.cpp                       30772    14
+A3/src/viewer.hpp                       15528     3
+
